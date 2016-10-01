@@ -1,0 +1,21 @@
+{
+  "name": "basic-less-workflow",
+  "authors": [
+    "Fabio Del Bene <delbio87@gmail.com>"
+  ],
+  "description": "basic less workflow",
+  "main": "",
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-less": "^3.3.4"
+  }
+}

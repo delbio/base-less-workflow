@@ -1,0 +1,22 @@
+{
+  "name": "basic-less-workflow",
+  "version": "1.0.0",
+  "description": "basic less workflow",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fabio Del Bene <fabio.delbene@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0",
+    "less": "^2.7.1",
+    "uglify-js": "^2.7.3",
+    "uglifycss": "0.0.21"
+  }
+}
